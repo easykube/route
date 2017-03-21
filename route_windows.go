@@ -117,6 +117,7 @@ func RouteList() ([]Route, error) {
 }
 
 //初始化路由器设置
-func InitRouter(ip string) {
+//eth 用于路由的网卡名称
+func InitRouter(eth string) {
 
 }
